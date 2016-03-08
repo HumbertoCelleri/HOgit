@@ -1,4 +1,4 @@
-# HOgit
+# HOgit: PRUEBA MODIFICARLO Y SUBIRLO
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
